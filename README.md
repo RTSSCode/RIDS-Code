@@ -22,6 +22,7 @@ pip install torch
 Hardware:
 - 40 GbE NIC: [DPDK-supported hardwares](https://core.dpdk.org/supported/)
   - e.g., Intel XL710-QDA2
+- Tofino switch [Tofino](https://www.intel.com/content/www/us/en/products/network-io/programmable-ethernet-switch/tofino-series.html).
 
 Software:
 - Ubuntu 20.04.1 LTS
